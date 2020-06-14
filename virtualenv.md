@@ -1,5 +1,7 @@
-```python
-$ C:\Users\Shoriot\Desktop\bpdb>venv\Scripts\activate
+## virtualenv
 
-(venv) C:\Users\Shoriot\Desktop\bpdb>
+```python
+$ virtualenv venv
+
+$ venv\Scripts\activate
 ```
