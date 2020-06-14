@@ -1,7 +1,10 @@
 ## virtualenv
 
 ```python
-$ virtualenv venv
+$ pip install virtualenv
 
+$ virtualenv --version
+
+$ virtualenv venv
 $ venv\Scripts\activate
 ```
